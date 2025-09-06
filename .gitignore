@@ -1,0 +1,8 @@
+mad2_proj/lib/
+lib
+mad2_proj*
+*.log
+*.aux
+*.out
+*.toc
+*.gz
